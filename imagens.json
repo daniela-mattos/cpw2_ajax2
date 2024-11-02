@@ -1,0 +1,14 @@
+{
+    "gatos": [
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2020/03/18/22/35/cats-4945658_1280.png", "descricao": "Gatos"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2024/06/07/11/45/cats-8814533_1280.jpg", "descricao": "Irmãos"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2014/06/24/00/53/red-cat-375869_960_720.jpg", "descricao": "Ruivo"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2014/06/24/00/49/black-cat-375866_1280.jpg", "descricao": "Preto"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2018/07/13/10/20/kittens-3535404_1280.jpg", "descricao": "Trio"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2023/07/04/08/31/cats-8105667_1280.jpg", "descricao": "Dupla"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2019/10/18/09/29/cat-4558651_1280.jpg", "descricao": "Feroz"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2018/02/21/05/17/cat-3169476_1280.jpg", "descricao": "Sozinho"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2014/12/03/21/20/kittens-555822_1280.jpg", "descricao": "Família"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2014/01/04/09/21/cat-238394_1280.jpg", "descricao": "Magestoso"}
+    ]
+  }

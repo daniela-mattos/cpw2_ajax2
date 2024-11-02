@@ -1,0 +1,32 @@
+body {
+    background: rgb(39, 36, 36);
+    font-family: Arial, sans-serif;
+    color: rgb(193, 190, 205);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#imagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+.imagem-container {
+    margin: 10px;
+    text-align: center;
+}
+.imagem-container img {
+    max-width: 80%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.imagem-container p {
+    margin: 5px 0 0;
+    font-size: 1rem;
+}
